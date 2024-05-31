@@ -1,0 +1,14 @@
+release/main.o
+release/frmnavlistview.o
+release/frmnavlistviewform.o
+release/navlistview.o
+release/add_sensor.o
+release/serch_sensor.o
+release/del_sensor.o
+release/qrc_image.o
+release/moc_navlistview.o
+release/moc_frmnavlistview.o
+release/moc_frmnavlistviewform.o
+release/moc_add_sensor.o
+release/moc_serch_sensor.o
+release/moc_del_sensor.o

@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\frmnavlistview.o
+./debug\frmnavlistviewform.o
+./debug\navlistview.o
+./debug\add_sensor.o
+./debug\serch_sensor.o
+./debug\del_sensor.o
+./debug\qrc_image.o
+./debug\moc_navlistview.o
+./debug\moc_frmnavlistview.o
+./debug\moc_frmnavlistviewform.o
+./debug\moc_add_sensor.o
+./debug\moc_serch_sensor.o
+./debug\moc_del_sensor.o
+);
